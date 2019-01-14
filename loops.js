@@ -10,6 +10,8 @@ else{
 return array
 }
 function whileLoop(n){
-  while(countdown>0)
+  while(countdown>0){
   console.log(--n)
+  }
+  return 'done'
 }
